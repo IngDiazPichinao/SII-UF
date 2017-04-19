@@ -1,0 +1,7 @@
+database:
+    cns:
+        host     : 'cerberus.voipir.cl'
+        port     : 5432
+        user     :
+        password :
+        database :

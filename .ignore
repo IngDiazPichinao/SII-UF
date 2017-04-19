@@ -1,0 +1,8 @@
+build/
+dist/
+ignore/
+/.pybuild/
+
+*.pyc
+*.egg*
+*.swp

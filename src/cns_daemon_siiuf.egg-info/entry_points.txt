@@ -1,0 +1,3 @@
+[console_scripts]
+cns-daemon-siiuf = cns.daemon.siiuf.main:main
+
